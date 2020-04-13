@@ -11,6 +11,19 @@ Additional PIC-SURE Links:
 ## PIC-SURE User Interface
 **Paragraph about PIC-SURE User Interface**  
 ## PIC-SURE Auth Micro-App (PSAMA)
+PSAMA Repos:
+- 
+Additional PSAMA Links:
+- First Item
+- Second Item
+- Etc.
 **Paragraph about PSAMA**  
 ## High Performance Data Store (HPDS)
 **Paragraph about HPDS**  
+HPDS Repos:
+- 
+Additional HPDS Links:
+- First Item
+- Second Item
+- Etc.
+
