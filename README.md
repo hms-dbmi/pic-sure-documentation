@@ -13,19 +13,25 @@ PIC-SURE Repos:
 Additional PIC-SURE Links:
 - First Item
 - Second Item
-- Etc.
+- Etc.</br>
+
 ## PIC-SURE User Interface
 **Paragraph about PIC-SURE User Interface**  
+
 PIC-SURE User Interface Repos:
 - [https://github.com/hms-dbmi/pic-sure-hpds-ui](https://github.com/hms-dbmi/pic-sure-hpds-ui)
+
 ## PIC-SURE Auth Micro-App (PSAMA)
 PSAMA Repos:
 - [https://github.com/hms-dbmi/pic-sure-auth-microapp](https://github.com/hms-dbmi/pic-sure-auth-microapp)
+
 Additional PSAMA Links:
-- First Item
+- [https://github.com/hms-dbmi/pic-sure-auth-microapp/tree/master/pic-sure-auth-services/src/main/java/edu/harvard/hms/dbmi/avillach/auth](https://github.com/hms-dbmi/pic-sure-auth-microapp/tree/master/pic-sure-auth-services/src/main/java/edu/harvard/hms/dbmi/avillach/auth)
 - Second Item
 - Etc.
+
 **Paragraph about PSAMA**  
+
 ## High Performance Data Store (HPDS)
 
 **Paragraph about HPDS**  
