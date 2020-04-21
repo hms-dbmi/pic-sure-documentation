@@ -16,14 +16,14 @@ Additional PIC-SURE Links:
 - Etc.</br>
 
 ## PIC-SURE User Interface
-**The PIC-SURE User Interface acts as a visual aid for running normal queries of resources through PIC-SURE. **  
+**The PIC-SURE User Interface acts as a visual aid for running normal queries of resources through PIC-SURE.**  
 
 PIC-SURE User Interface Repos:
 - [https://github.com/hms-dbmi/pic-sure-hpds-ui](https://github.com/hms-dbmi/pic-sure-hpds-ui)
 
 ## PIC-SURE Auth Micro-App (PSAMA)
 
-**The PSAMA component of the PIC-SURE ecosystem authorizes and authenticates all actions taken within PIC-SURE. **  
+**The PSAMA component of the PIC-SURE ecosystem authorizes and authenticates all actions taken within PIC-SURE.**  
 
 PSAMA Repos:
 - [https://github.com/hms-dbmi/pic-sure-auth-microapp](https://github.com/hms-dbmi/pic-sure-auth-microapp)
