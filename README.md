@@ -10,9 +10,9 @@ PIC-SURE Repos:
 - [https://github.com/hms-dbmi/pic-sure-all-in-one](https://github.com/hms-dbmi/pic-sure-all-in-one)
 
 <br>
-Additional PIC-SURE Links:
+Additional PIC-SURE Links: </br>
 - PIC-SURE v2 API Reference Document:
-[https://docs.google.com/document/d/1xVXRYJ1mpoaoiOxyZ8xZ56J_ZUn86hsfrh-ycoZfPRo/edit](https://docs.google.com/document/d/1xVXRYJ1mpoaoiOxyZ8xZ56J_ZUn86hsfrh-ycoZfPRo/edit)
+[https://docs.google.com/document/d/1xVXRYJ1mpoaoiOxyZ8xZ56J_ZUn86hsfrh-ycoZfPRo](https://docs.google.com/document/d/1xVXRYJ1mpoaoiOxyZ8xZ56J_ZUn86hsfrh-ycoZfPRo)
 
 - PIC-SURE FENCE Integration Document: [https://docs.google.com/document/d/14XGD-0lZUdnCVPzuep35U5GRElIlx3MqeMHfqGYbigU](https://docs.google.com/document/d/14XGD-0lZUdnCVPzuep35U5GRElIlx3MqeMHfqGYbigU)
 
