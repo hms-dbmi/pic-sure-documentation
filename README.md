@@ -11,13 +11,14 @@ PIC-SURE Repos:
 
 <br>
 Additional PIC-SURE Links:
-- PIC-SURE v2 API Reference Document: [https://docs.google.com/document/d/1xVXRYJ1mpoaoiOxyZ8xZ56J_ZUn86hsfrh-ycoZfPRo/edit](https://docs.google.com/document/d/1xVXRYJ1mpoaoiOxyZ8xZ56J_ZUn86hsfrh-ycoZfPRo/edit)
+- PIC-SURE v2 API Reference Document:
+[https://docs.google.com/document/d/1xVXRYJ1mpoaoiOxyZ8xZ56J_ZUn86hsfrh-ycoZfPRo/edit](https://docs.google.com/document/d/1xVXRYJ1mpoaoiOxyZ8xZ56J_ZUn86hsfrh-ycoZfPRo/edit)
 
 - PIC-SURE FENCE Integration Document: [https://docs.google.com/document/d/14XGD-0lZUdnCVPzuep35U5GRElIlx3MqeMHfqGYbigU](https://docs.google.com/document/d/14XGD-0lZUdnCVPzuep35U5GRElIlx3MqeMHfqGYbigU)
 
 - DCPPC Presentation on PIC-SURE as a meta-API:[https://docs.google.com/presentation/d/16UpSrbGsF_kDTf0JMDVa86ZlXRxcQfy83YTs8gJCxPg/edit#slide=id.g416d2825d2_0_487](https://docs.google.com/presentation/d/16UpSrbGsF_kDTf0JMDVa86ZlXRxcQfy83YTs8gJCxPg/edit#slide=id.g416d2825d2_0_487)
 
-- Etc.</br>
+</br>
 
 ## PIC-SURE User Interface
 **The PIC-SURE User Interface acts as a visual aid for running normal queries of resources through PIC-SURE.**  
