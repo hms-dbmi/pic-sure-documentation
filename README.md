@@ -41,8 +41,6 @@ Additional PSAMA Links:
 
 - [https://docs.google.com/document/d/1Hug2z2P6XKBqkcVNervAdXxm66LOThuTt5_PUv9CjA0/edit#heading=h.q15h874f7kvq](https://docs.google.com/document/d/1Hug2z2P6XKBqkcVNervAdXxm66LOThuTt5_PUv9CjA0/edit#heading=h.q15h874f7kvq)
 
-- Etc.
-
 
 ## High Performance Data Store (HPDS)
 
