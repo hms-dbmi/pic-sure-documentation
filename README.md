@@ -4,9 +4,9 @@
 PIC-SURE Repos:
 - [https://github.com/hms-dbmi/pic-sure](https://github.com/hms-dbmi/pic-sure)
 - [https://github.com/hms-dbmi/pic-sure/wiki](https://github.com/hms-dbmi/pic-sure/wiki)
-- [https://github.com/hms-dbmi/biodatacatalyst-pic-sure] (https://github.com/hms-dbmi/biodatacatalyst-pic-sure)
+- [https://github.com/hms-dbmi/biodatacatalyst-pic-sure](https://github.com/hms-dbmi/biodatacatalyst-pic-sure)
 - [https://github.com/hms-dbmi/pic-sure-python-client](https://github.com/hms-dbmi/pic-sure-python-client)
-- [https://github.com/hms-dbmi/pic-sure-r-client] (https://github.com/hms-dbmi/pic-sure-r-client)
+- [https://github.com/hms-dbmi/pic-sure-r-client](https://github.com/hms-dbmi/pic-sure-r-client)
 - [https://github.com/hms-dbmi/pic-sure-all-in-one](https://github.com/hms-dbmi/pic-sure-all-in-one)
 
 <br>
@@ -44,7 +44,7 @@ Additional PSAMA Links:
 HPDS Repos:
 - [https://github.com/hms-dbmi/pic-sure-hpds](https://github.com/hms-dbmi/pic-sure-hpds)
 - [https://github.com/hms-dbmi/pic-sure-r-adapter-hpds](https://github.com/hms-dbmi/pic-sure-r-adapter-hpds)]
-- [https://github.com/bch-gnome/hpds_annotation] (https://github.com/bch-gnome/hpds_annotation)
+- [https://github.com/bch-gnome/hpds_annotation](https://github.com/bch-gnome/hpds_annotation)
 Additional HPDS Links:
 - [https://docs.google.com/document/d/1BDtesMWtXLYe7qtxl_s3K5nN2lJW21yVPhyabonTeRM/edit#](https://docs.google.com/document/d/1BDtesMWtXLYe7qtxl_s3K5nN2lJW21yVPhyabonTeRM/edit#)
 
