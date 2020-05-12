@@ -11,8 +11,9 @@ PIC-SURE Repos:
 
 <br>
 Additional PIC-SURE Links: </br>
+
 - PIC-SURE v2 API Reference Document:
-[https://docs.google.com/document/d/1xVXRYJ1mpoaoiOxyZ8xZ56J_ZUn86hsfrh-ycoZfPRo](https://docs.google.com/document/d/1xVXRYJ1mpoaoiOxyZ8xZ56J_ZUn86hsfrh-ycoZfPRo)
+[https://docs.google.com/document/d/1xVXRYJ1mpoaoiOxyZ8xZ56J_ZUn86hsfrh-ycoZfPRo/edit#heading=h.lypfpc292myo](https://docs.google.com/document/d/1xVXRYJ1mpoaoiOxyZ8xZ56J_ZUn86hsfrh-ycoZfPRo/edit#heading=h.lypfpc292myo)
 
 - PIC-SURE FENCE Integration Document: [https://docs.google.com/document/d/14XGD-0lZUdnCVPzuep35U5GRElIlx3MqeMHfqGYbigU](https://docs.google.com/document/d/14XGD-0lZUdnCVPzuep35U5GRElIlx3MqeMHfqGYbigU)
 
@@ -48,7 +49,7 @@ Additional PSAMA Links:
 HPDS Repos:
 - [https://github.com/hms-dbmi/pic-sure-hpds](https://github.com/hms-dbmi/pic-sure-hpds)
 - [https://github.com/hms-dbmi/pic-sure-r-adapter-hpds](https://github.com/hms-dbmi/pic-sure-r-adapter-hpds)]
-- [https://github.com/bch-gnome/hpds_annotation](https://github.com/bch-gnome/hpds_annotation)
+- [https://github.com/bch-gnome/hpds_annotation](https://github.com/bch-gnome/hpds_annotation) </br>
 Additional HPDS Links:
 - [https://docs.google.com/document/d/1BDtesMWtXLYe7qtxl_s3K5nN2lJW21yVPhyabonTeRM/edit#](https://docs.google.com/document/d/1BDtesMWtXLYe7qtxl_s3K5nN2lJW21yVPhyabonTeRM/edit#)
 
