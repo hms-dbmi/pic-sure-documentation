@@ -49,8 +49,10 @@ Additional PSAMA Links:
 HPDS Repos:
 - [https://github.com/hms-dbmi/pic-sure-hpds](https://github.com/hms-dbmi/pic-sure-hpds)
 - [https://github.com/hms-dbmi/pic-sure-r-adapter-hpds](https://github.com/hms-dbmi/pic-sure-r-adapter-hpds)
+- [https://github.com/hms-dbmi/pic-sure-hpds-ui](https://github.com/hms-dbmi/pic-sure-hpds-ui)
 - [https://github.com/bch-gnome/hpds_annotation](https://github.com/bch-gnome/hpds_annotation) </br>
 Additional HPDS Links:
 - [https://docs.google.com/document/d/1BDtesMWtXLYe7qtxl_s3K5nN2lJW21yVPhyabonTeRM/edit#](https://docs.google.com/document/d/1BDtesMWtXLYe7qtxl_s3K5nN2lJW21yVPhyabonTeRM/edit#)
-
-
+- [https://github.com/hms-dbmi/pic-sure-hpds-phenotype-load-example](https://github.com/hms-dbmi/pic-sure-hpds-phenotype-load-example)
+- [https://github.com/hms-dbmi/pic-sure-hpds-genotype-load-example](https://github.com/hms-dbmi/pic-sure-hpds-genotype-load-example)
+- [https://github.com/hms-dbmi/Access-to-Data-using-PIC-SURE-API](https://github.com/hms-dbmi/Access-to-Data-using-PIC-SURE-API)
