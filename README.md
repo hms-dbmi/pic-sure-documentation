@@ -19,6 +19,10 @@ Additional PIC-SURE Links: </br>
 
 - DCPPC Presentation on PIC-SURE as a meta-API:[https://docs.google.com/presentation/d/16UpSrbGsF_kDTf0JMDVa86ZlXRxcQfy83YTs8gJCxPg/edit#slide=id.g416d2825d2_0_487](https://docs.google.com/presentation/d/16UpSrbGsF_kDTf0JMDVa86ZlXRxcQfy83YTs8gJCxPg/edit#slide=id.g416d2825d2_0_487)
 
+- DOCUMENT TITLE TBD [https://github.com/hms-dbmi/avillachlab-jenkins](https://github.com/hms-dbmi/avillachlab-jenkins)
+
+- DOCUMENT TITLE TBD [https://github.com/hms-dbmi/avillachlab-jenkins-dev-release-control](https://github.com/hms-dbmi/avillachlab-jenkins-dev-release-control)
+
 </br>
 
 ## PIC-SURE User Interface
@@ -48,6 +52,7 @@ Additional PSAMA Links:
 **HPDS is a datastore designed to work with the PIC-SURE meta-API. It grants researchers fast, dependable access to static datasets and the ability to produce statistics ready dataframes filtered on any variable they choose at any time.**  
 HPDS Repos:
 - [https://github.com/hms-dbmi/pic-sure-hpds](https://github.com/hms-dbmi/pic-sure-hpds)
+- [https://github.com/hms-dbmi/pic-sure-python-adapter-hpds](https://github.com/hms-dbmi/pic-sure-python-adapter-hpds)
 - [https://github.com/hms-dbmi/pic-sure-r-adapter-hpds](https://github.com/hms-dbmi/pic-sure-r-adapter-hpds)
 - [https://github.com/hms-dbmi/pic-sure-hpds-ui](https://github.com/hms-dbmi/pic-sure-hpds-ui)
 - [https://github.com/bch-gnome/hpds_annotation](https://github.com/bch-gnome/hpds_annotation) </br>
