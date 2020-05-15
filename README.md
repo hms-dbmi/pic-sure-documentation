@@ -19,9 +19,9 @@ Additional PIC-SURE Links: </br>
 
 - DCPPC Presentation on PIC-SURE as a meta-API:[https://docs.google.com/presentation/d/16UpSrbGsF_kDTf0JMDVa86ZlXRxcQfy83YTs8gJCxPg/edit#slide=id.g416d2825d2_0_487](https://docs.google.com/presentation/d/16UpSrbGsF_kDTf0JMDVa86ZlXRxcQfy83YTs8gJCxPg/edit#slide=id.g416d2825d2_0_487)
 
-- DOCUMENT TITLE TBD [https://github.com/hms-dbmi/avillachlab-jenkins](https://github.com/hms-dbmi/avillachlab-jenkins)
+- [https://github.com/hms-dbmi/avillachlab-jenkins](https://github.com/hms-dbmi/avillachlab-jenkins)
 
-- DOCUMENT TITLE TBD [https://github.com/hms-dbmi/avillachlab-jenkins-dev-release-control](https://github.com/hms-dbmi/avillachlab-jenkins-dev-release-control)
+- [https://github.com/hms-dbmi/avillachlab-jenkins-dev-release-control](https://github.com/hms-dbmi/avillachlab-jenkins-dev-release-control)
 
 </br>
 
