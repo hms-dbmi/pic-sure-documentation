@@ -61,3 +61,8 @@ Additional HPDS Links:
 - [https://github.com/hms-dbmi/pic-sure-hpds-phenotype-load-example](https://github.com/hms-dbmi/pic-sure-hpds-phenotype-load-example)
 - [https://github.com/hms-dbmi/pic-sure-hpds-genotype-load-example](https://github.com/hms-dbmi/pic-sure-hpds-genotype-load-example)
 - [https://github.com/hms-dbmi/Access-to-Data-using-PIC-SURE-API](https://github.com/hms-dbmi/Access-to-Data-using-PIC-SURE-API)
+
+## ETL 
+The following are instructions for the GIC network to load their data into HPDS in ACT standard format. It contains all the scripts necessary to create the new table, generate mapping data, and extract  data for HPDS to load.
+
+- [https://github.com/hms-dbmi/i2b2ACTtoHPDS/tree/master/Latest](https://github.com/hms-dbmi/i2b2ACTtoHPDS/tree/master/Latest)
