@@ -5,8 +5,6 @@ PIC-SURE Repos:
 - [https://github.com/hms-dbmi/pic-sure](https://github.com/hms-dbmi/pic-sure)
 - [https://github.com/hms-dbmi/pic-sure/wiki](https://github.com/hms-dbmi/pic-sure/wiki)
 - [https://github.com/hms-dbmi/biodatacatalyst-pic-sure](https://github.com/hms-dbmi/biodatacatalyst-pic-sure)
-- [https://github.com/hms-dbmi/pic-sure-python-client](https://github.com/hms-dbmi/pic-sure-python-client)
-- [https://github.com/hms-dbmi/pic-sure-r-client](https://github.com/hms-dbmi/pic-sure-r-client)
 - [https://github.com/hms-dbmi/pic-sure-all-in-one](https://github.com/hms-dbmi/pic-sure-all-in-one)
 
 <br>
@@ -61,6 +59,12 @@ Additional HPDS Links:
 - [https://github.com/hms-dbmi/pic-sure-hpds-phenotype-load-example](https://github.com/hms-dbmi/pic-sure-hpds-phenotype-load-example)
 - [https://github.com/hms-dbmi/pic-sure-hpds-genotype-load-example](https://github.com/hms-dbmi/pic-sure-hpds-genotype-load-example)
 - [https://github.com/hms-dbmi/Access-to-Data-using-PIC-SURE-API](https://github.com/hms-dbmi/Access-to-Data-using-PIC-SURE-API)
+
+## Client Libraries
+The following are the collected client libraries for the entire PIC-SURE project.
+
+- [https://github.com/hms-dbmi/pic-sure-r-client](https://github.com/hms-dbmi/pic-sure-r-client)
+- [https://github.com/hms-dbmi/pic-sure-python-client](https://github.com/hms-dbmi/pic-sure-python-client)
 
 ## ETL 
 The following are instructions for the GIC network to load their data into HPDS in ACT standard format. It contains all the scripts necessary to create the new table, generate mapping data, and extract  data for HPDS to load.
