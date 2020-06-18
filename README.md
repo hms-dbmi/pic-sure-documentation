@@ -67,6 +67,6 @@ The following are the collected client libraries for the entire PIC-SURE project
 - [https://github.com/hms-dbmi/pic-sure-python-client](https://github.com/hms-dbmi/pic-sure-python-client)
 
 ## ETL 
-The following are instructions for the GIC network to load their data into HPDS in ACT standard format. It contains all the scripts necessary to create the new table, generate mapping data, and extract  data for HPDS to load.
+The following are instructions to load data into HPDS in ACT standard format. It contains all the scripts necessary to create the new table, generate mapping data, and extract  data for HPDS to load.
 
 - [https://github.com/hms-dbmi/i2b2ACTtoHPDS/tree/master/Latest](https://github.com/hms-dbmi/i2b2ACTtoHPDS/tree/master/Latest)
