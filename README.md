@@ -2,18 +2,17 @@
 ## PIC-SURE
 **The PIC-SURE v2 API is a meta-api used to host any number of resources exposed through a unified set of generalized operations. The following document explains how to get started with PIC-SURE and the common endpoints you can use to query any resource registered with PIC-SURE.**  
 PIC-SURE Repos:
-- [PIC-SURE API](https://github.com/hms-dbmi/pic-sure): This is the repository for version 2+ of the PIC-SURE API
-- [https://github.com/hms-dbmi/pic-sure/wiki](https://github.com/hms-dbmi/pic-sure/wiki)
-- [https://github.com/hms-dbmi/biodatacatalyst-pic-sure](https://github.com/hms-dbmi/biodatacatalyst-pic-sure)
-- [https://github.com/hms-dbmi/pic-sure-all-in-one](https://github.com/hms-dbmi/pic-sure-all-in-one)
+- [PIC-SURE API](https://github.com/hms-dbmi/pic-sure): This is the repository for version 2+ of the PIC-SURE API.
+- [PIC-SURE Wiki](https://github.com/hms-dbmi/pic-sure/wiki): This is the wiki page for version 2+ of the PIC-SURE API.
+- [Biodatacatalyst PIC-SURE](https://github.com/hms-dbmi/biodatacatalyst-pic-sure): This is the repository for the biodatacatalyst environment of PIC-SURE.
+- [PIC-SURE-ALL-IN-ONE](https://github.com/hms-dbmi/pic-sure-all-in-one): This is the repository for PIC-SURE-ALL-IN-ONE. 
 
 <br>
 Additional PIC-SURE Links: </br>
 
-- PIC-SURE v2 API Reference Document:
-[https://docs.google.com/document/d/1xVXRYJ1mpoaoiOxyZ8xZ56J_ZUn86hsfrh-ycoZfPRo/edit#heading=h.lypfpc292myo](https://docs.google.com/document/d/1xVXRYJ1mpoaoiOxyZ8xZ56J_ZUn86hsfrh-ycoZfPRo/edit#heading=h.lypfpc292myo)
+- [PIC-SURE v2 API Reference Document](https://docs.google.com/document/d/1xVXRYJ1mpoaoiOxyZ8xZ56J_ZUn86hsfrh-ycoZfPRo/edit#heading=h.lypfpc292myo): This google document contains important reference information about the PIC-SURE v2 API.
 
-- PIC-SURE FENCE Integration Document: [https://docs.google.com/document/d/14XGD-0lZUdnCVPzuep35U5GRElIlx3MqeMHfqGYbigU](https://docs.google.com/document/d/14XGD-0lZUdnCVPzuep35U5GRElIlx3MqeMHfqGYbigU)
+- [PIC-SURE FENCE Integration Document](https://docs.google.com/document/d/14XGD-0lZUdnCVPzuep35U5GRElIlx3MqeMHfqGYbigU): This document contains information concerning the Fence authentication and authorization service.
 
 - DCPPC Presentation on PIC-SURE as a meta-API:[https://docs.google.com/presentation/d/16UpSrbGsF_kDTf0JMDVa86ZlXRxcQfy83YTs8gJCxPg/edit#slide=id.g416d2825d2_0_487](https://docs.google.com/presentation/d/16UpSrbGsF_kDTf0JMDVa86ZlXRxcQfy83YTs8gJCxPg/edit#slide=id.g416d2825d2_0_487)
 
