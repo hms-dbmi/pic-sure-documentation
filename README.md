@@ -2,7 +2,7 @@
 ## PIC-SURE
 **The PIC-SURE v2 API is a meta-api used to host any number of resources exposed through a unified set of generalized operations. The following document explains how to get started with PIC-SURE and the common endpoints you can use to query any resource registered with PIC-SURE.**  
 PIC-SURE Repos:
-- [https://github.com/hms-dbmi/pic-sure](PIC-SURE API): This is the repository for version 2+ of the PIC-SURE API
+- [PIC-SURE API](https://github.com/hms-dbmi/pic-sure): This is the repository for version 2+ of the PIC-SURE API
 - [https://github.com/hms-dbmi/pic-sure/wiki](https://github.com/hms-dbmi/pic-sure/wiki)
 - [https://github.com/hms-dbmi/biodatacatalyst-pic-sure](https://github.com/hms-dbmi/biodatacatalyst-pic-sure)
 - [https://github.com/hms-dbmi/pic-sure-all-in-one](https://github.com/hms-dbmi/pic-sure-all-in-one)
