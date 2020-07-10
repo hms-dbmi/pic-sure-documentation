@@ -29,19 +29,19 @@ PIC-SURE User Interface Repos:
 - [https://github.com/hms-dbmi/pic-sure-hpds-ui](https://github.com/hms-dbmi/pic-sure-hpds-ui)
 
 Additional PIC-SURE User Interface Links:
-- PIC-SURE UI Flow:[https://docs.google.com/drawings/d/1nNvzvQOVLVU49oM2tYWG7FcK1gZOkdJO-2dv2JaWz0w/edit?usp=sharing](https://docs.google.com/drawings/d/1nNvzvQOVLVU49oM2tYWG7FcK1gZOkdJO-2dv2JaWz0w/edit?usp=sharing)
+[PIC-SURE UI Flow](https://docs.google.com/drawings/d/1nNvzvQOVLVU49oM2tYWG7FcK1gZOkdJO-2dv2JaWz0w/edit?usp=sharing)
 
 ## PIC-SURE Auth Micro-App (PSAMA)
 
 **The PSAMA component of the PIC-SURE ecosystem authorizes and authenticates all actions taken within PIC-SURE.**  
 
 PSAMA Repos:
-- [https://github.com/hms-dbmi/pic-sure-auth-microapp](https://github.com/hms-dbmi/pic-sure-auth-microapp)
+- [PIC-SURE Auth MicroApp Repository](https://github.com/hms-dbmi/pic-sure-auth-microapp)
 
 Additional PSAMA Links:
 - [https://github.com/hms-dbmi/pic-sure-auth-microapp/tree/master/pic-sure-auth-services/src/main/java/edu/harvard/hms/dbmi/avillach/auth](https://github.com/hms-dbmi/pic-sure-auth-microapp/tree/master/pic-sure-auth-services/src/main/java/edu/harvard/hms/dbmi/avillach/auth)
 
-- [https://docs.google.com/document/d/1Hug2z2P6XKBqkcVNervAdXxm66LOThuTt5_PUv9CjA0/edit#heading=h.q15h874f7kvq](https://docs.google.com/document/d/1Hug2z2P6XKBqkcVNervAdXxm66LOThuTt5_PUv9CjA0/edit#heading=h.q15h874f7kvq)
+- [Token Introspection Process in PSAMA](https://docs.google.com/document/d/1Hug2z2P6XKBqkcVNervAdXxm66LOThuTt5_PUv9CjA0/edit#heading=h.q15h874f7kvq): This google document goes over the details of the token introspection process.
 
 
 ## High Performance Data Store (HPDS)
@@ -62,10 +62,10 @@ Additional HPDS Links:
 ## Client Libraries
 The following are the collected client libraries for the entire PIC-SURE project.
 
-- [https://github.com/hms-dbmi/pic-sure-r-client](https://github.com/hms-dbmi/pic-sure-r-client)
-- [https://github.com/hms-dbmi/pic-sure-python-client](https://github.com/hms-dbmi/pic-sure-python-client)
+- [R Client Library](https://github.com/hms-dbmi/pic-sure-r-client)
+- [Python Client Library](https://github.com/hms-dbmi/pic-sure-python-client)
 
 ## ETL 
 The following are instructions to load data into HPDS. It contains all the scripts necessary to create the new table, generate mapping data, and extract  data for HPDS to load.
 
-- [https://github.com/hms-dbmi/i2b2ACTtoHPDS/tree/master/Latest](https://github.com/hms-dbmi/i2b2ACTtoHPDS/tree/master/Latest)
+- [i2b2 ACT to HPDS](https://github.com/hms-dbmi/i2b2ACTtoHPDS/tree/master/Latest)
