@@ -16,9 +16,9 @@ Additional PIC-SURE Links: </br>
 
 - [DCPPC Presentation on PIC-SURE as a meta-API](https://docs.google.com/presentation/d/16UpSrbGsF_kDTf0JMDVa86ZlXRxcQfy83YTs8gJCxPg/edit#slide=id.g416d2825d2_0_487)
 
-- [Avillachlab-Jenkins Repository](https://github.com/hms-dbmi/avillachlab-jenkins)
+- [Avillachlab-Jenkins Repository](https://github.com/hms-dbmi/avillachlab-jenkins): A link to the Avillachlab-Jenkins repository.
 
-- [Avillachlab-Jenkins Dev Release Control](https://github.com/hms-dbmi/avillachlab-jenkins-dev-release-control)
+- [Avillachlab-Jenkins Dev Release Control](https://github.com/hms-dbmi/avillachlab-jenkins-dev-release-control): A repository for Avillachlab-Jenkins development release control.
 
 </br>
 
@@ -26,11 +26,11 @@ Additional PIC-SURE Links: </br>
 **The PIC-SURE User Interface acts as a visual aid for running normal queries of resources through PIC-SURE.**  
 
 PIC-SURE User Interface Repos:
-- [PIC-SURE HPDS UI](https://github.com/hms-dbmi/pic-sure-hpds-ui)
+- [PIC-SURE HPDS UI](https://github.com/hms-dbmi/pic-sure-hpds-ui): The main HPDS UI repository.
 
 Additional PIC-SURE User Interface Links:
 
-[PIC-SURE UI Flow](https://docs.google.com/drawings/d/1nNvzvQOVLVU49oM2tYWG7FcK1gZOkdJO-2dv2JaWz0w/edit?usp=sharing)
+[PIC-SURE UI Flow](https://docs.google.com/drawings/d/1nNvzvQOVLVU49oM2tYWG7FcK1gZOkdJO-2dv2JaWz0w/edit?usp=sharing): Links to a google drawing of the PIC-SURE UI flow.
 
 ## PIC-SURE Auth Micro-App (PSAMA)
 
@@ -49,10 +49,10 @@ Additional PSAMA Links:
 
 **HPDS is a datastore designed to work with the PIC-SURE meta-API. It grants researchers fast, dependable access to static datasets and the ability to produce statistics ready dataframes filtered on any variable they choose at any time.**  
 HPDS Repos:
-- [PIC-SURE HPDS](https://github.com/hms-dbmi/pic-sure-hpds)
+- [PIC-SURE HPDS](https://github.com/hms-dbmi/pic-sure-hpds): The main HPDS repository.
 - [PIC-SURE HPDS Python Client](https://github.com/hms-dbmi/pic-sure-python-adapter-hpds):Python client library to run queries against a PIC-SURE High Performance Data Store (HPDS) resource.
 - [PIC-SURE HPDS R Client](https://github.com/hms-dbmi/pic-sure-r-adapter-hpds): R client library to run queries against a PIC-SURE High Performance Data Store (HPDS) resource.
-- [PIC-SURE HPDS UI](https://github.com/hms-dbmi/pic-sure-hpds-ui)
+- [PIC-SURE HPDS UI](https://github.com/hms-dbmi/pic-sure-hpds-ui): The main HPDS UI repository.
 - [HPDS Annotation](https://github.com/bch-gnome/hpds_annotation): This repository describes steps to prepare and annotate VCF files for loading into HPDS. </br>
 Additional HPDS Links:
 - [Loading HPDS Data for PL-Biobank](https://docs.google.com/document/d/1BDtesMWtXLYe7qtxl_s3K5nN2lJW21yVPhyabonTeRM/edit#): Details how to do an ETL of genotype and phenotype data into HPDS.
