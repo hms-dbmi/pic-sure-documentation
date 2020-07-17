@@ -55,10 +55,10 @@ HPDS Repos:
 - [PIC-SURE HPDS UI](https://github.com/hms-dbmi/pic-sure-hpds-ui)
 - [HPDS Annotation](https://github.com/bch-gnome/hpds_annotation): This repository describes steps to prepare and annotate VCF files for loading into HPDS. </br>
 Additional HPDS Links:
-- [https://docs.google.com/document/d/1BDtesMWtXLYe7qtxl_s3K5nN2lJW21yVPhyabonTeRM/edit#](https://docs.google.com/document/d/1BDtesMWtXLYe7qtxl_s3K5nN2lJW21yVPhyabonTeRM/edit#)
-- [https://github.com/hms-dbmi/pic-sure-hpds-phenotype-load-example](https://github.com/hms-dbmi/pic-sure-hpds-phenotype-load-example)
-- [https://github.com/hms-dbmi/pic-sure-hpds-genotype-load-example](https://github.com/hms-dbmi/pic-sure-hpds-genotype-load-example)
-- [https://github.com/hms-dbmi/Access-to-Data-using-PIC-SURE-API](https://github.com/hms-dbmi/Access-to-Data-using-PIC-SURE-API)
+- [Loading HPDS Data for PL-Biobank](https://docs.google.com/document/d/1BDtesMWtXLYe7qtxl_s3K5nN2lJW21yVPhyabonTeRM/edit#): Details how to do an ETL of genotype and phenotype data into HPDS.
+- [pic-sure-hpds-nhanes](https://github.com/hms-dbmi/pic-sure-hpds-phenotype-load-example): An example HPDS environment load with a subset of the NHANES data.
+- [pic-sure-hpds-genotype-load-example](https://github.com/hms-dbmi/pic-sure-hpds-genotype-load-example): An HPDS genotype load example.
+- [Access-to-Data-using-PIC-SURE-API](https://github.com/hms-dbmi/Access-to-Data-using-PIC-SURE-API): Provides data access for users of PIC-SURE-All-In-One.
 
 ## Client Libraries
 The following are the collected client libraries for the entire PIC-SURE project.
