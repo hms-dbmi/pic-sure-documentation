@@ -40,7 +40,7 @@ PSAMA Repos:
 - [PIC-SURE Auth MicroApp Repository](https://github.com/hms-dbmi/pic-sure-auth-microapp)
 
 Additional PSAMA Links:
-- [https://github.com/hms-dbmi/pic-sure-auth-microapp/tree/master/pic-sure-auth-services/src/main/java/edu/harvard/hms/dbmi/avillach/auth](https://github.com/hms-dbmi/pic-sure-auth-microapp/tree/master/pic-sure-auth-services/src/main/java/edu/harvard/hms/dbmi/avillach/auth)
+- [PSAMA Core Logic](https://github.com/hms-dbmi/pic-sure-auth-microapp/tree/master/pic-sure-auth-services/src/main/java/edu/harvard/hms/dbmi/avillach/auth: This is where the core of the PSAMA application is stored in GitHub
 
 - [Token Introspection Process in PSAMA](https://docs.google.com/document/d/1Hug2z2P6XKBqkcVNervAdXxm66LOThuTt5_PUv9CjA0/edit#heading=h.q15h874f7kvq): This google document goes over the details of the token introspection process.
 
