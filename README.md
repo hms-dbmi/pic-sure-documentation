@@ -40,7 +40,7 @@ PSAMA Repos:
 - [PIC-SURE Auth MicroApp Repository](https://github.com/hms-dbmi/pic-sure-auth-microapp)
 
 Additional PSAMA Links:
-- [PSAMA Core Logic](https://github.com/hms-dbmi/pic-sure-auth-microapp/tree/master/pic-sure-auth-services/src/main/java/edu/harvard/hms/dbmi/avillach/auth) This is where the core of the PSAMA application is stored in GitHub
+- [PSAMA Core Logic](https://github.com/hms-dbmi/pic-sure-auth-microapp/tree/master/pic-sure-auth-services/src/main/java/edu/harvard/hms/dbmi/avillach/auth): This is where the core of the PSAMA application is stored in GitHub
 
 - [Token Introspection Process in PSAMA](https://docs.google.com/document/d/1UPKw8L-TMt4r0eOKSK8j9v0hBGDMp5EtQKjqJhxXsrE/edit?usp=sharing): This google document goes over the details of the token introspection process.
 
@@ -56,7 +56,7 @@ HPDS Repos:
 - [HPDS Annotation](https://github.com/bch-gnome/hpds_annotation): This repository describes steps to prepare and annotate VCF files for loading into HPDS. </br>
 Additional HPDS Links:
 - [Loading HPDS Data for PL-Biobank](https://docs.google.com/document/d/1ssrzx__h4EmbHMlwZ9afQvwXxZ9KvNYPx51mqXcFIGw/edit?usp=sharing): Details how to do an ETL of genotype and phenotype data into HPDS.
-- [pic-sure-hpds-nhanes](https://github.com/hms-dbmi/pic-sure-hpds-phenotype-load-example): An example HPDS environment load with a subset of the NHANES data.
+- [pic-sure-hpds-phenotype-load-example](https://github.com/hms-dbmi/pic-sure-hpds-phenotype-load-example): A HPDS phenotype-load-example.
 - [pic-sure-hpds-genotype-load-example](https://github.com/hms-dbmi/pic-sure-hpds-genotype-load-example): An HPDS genotype load example.
 - [Access-to-Data-using-PIC-SURE-API](https://github.com/hms-dbmi/Access-to-Data-using-PIC-SURE-API): Provides data access for users of PIC-SURE-All-In-One.
 
