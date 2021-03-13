@@ -10,11 +10,11 @@ PIC-SURE Repos:
 <br>
 Additional PIC-SURE Links: </br>
 
-- [PIC-SURE v2 API Reference Document](https://docs.google.com/document/d/1xVXRYJ1mpoaoiOxyZ8xZ56J_ZUn86hsfrh-ycoZfPRo/edit#heading=h.lypfpc292myo): This google document contains important reference information about the PIC-SURE v2 API.
+- [PIC-SURE v2 API Reference Document](https://docs.google.com/document/d/176CWrIoozihbng1A7Y9nSjhcen-ILFlO3rNRg73V_G8/edit?usp=sharing): This google document contains important reference information about the PIC-SURE v2 API.
 
-- [PIC-SURE FENCE Integration Document](https://docs.google.com/document/d/14XGD-0lZUdnCVPzuep35U5GRElIlx3MqeMHfqGYbigU): This document contains information concerning the Fence authentication and authorization service.
+- [PIC-SURE FENCE Integration Document](https://docs.google.com/document/d/1fZfx5sgZCfd-2KP3_W60xfCRJaQjgmvKbEQiu-zNHqc/edit?usp=sharing): This document contains information concerning the Fence authentication and authorization service.
 
-- [DCPPC Presentation on PIC-SURE as a meta-API](https://docs.google.com/presentation/d/16UpSrbGsF_kDTf0JMDVa86ZlXRxcQfy83YTs8gJCxPg/edit#slide=id.g416d2825d2_0_487)
+- [DCPPC Presentation on PIC-SURE as a meta-API](https://docs.google.com/presentation/d/1IDdoaV_9Bsy4ANqODiStpOICEGtCyvRQibrvLbInBJ4/edit?usp=sharing)
 
 - [Avillachlab-Jenkins Repository](https://github.com/hms-dbmi/avillachlab-jenkins): A link to the Avillachlab-Jenkins repository.
 
@@ -30,7 +30,7 @@ PIC-SURE User Interface Repos:
 
 Additional PIC-SURE User Interface Links:
 
-[PIC-SURE UI Flow](https://docs.google.com/drawings/d/1nNvzvQOVLVU49oM2tYWG7FcK1gZOkdJO-2dv2JaWz0w/edit?usp=sharing): Links to a google drawing of the PIC-SURE UI flow.
+[PIC-SURE UI Flow](https://docs.google.com/drawings/d/1RdODBD9ofrweUSbFllEo_0xYaAX0B7RGBf9FcoltnGs/edit?usp=sharing): Links to a google drawing of the PIC-SURE UI flow.
 
 ## PIC-SURE Auth Micro-App (PSAMA)
 
@@ -40,9 +40,9 @@ PSAMA Repos:
 - [PIC-SURE Auth MicroApp Repository](https://github.com/hms-dbmi/pic-sure-auth-microapp)
 
 Additional PSAMA Links:
-- [PSAMA Core Logic](https://github.com/hms-dbmi/pic-sure-auth-microapp/tree/master/pic-sure-auth-services/src/main/java/edu/harvard/hms/dbmi/avillach/auth: This is where the core of the PSAMA application is stored in GitHub
+- [PSAMA Core Logic](https://github.com/hms-dbmi/pic-sure-auth-microapp/tree/master/pic-sure-auth-services/src/main/java/edu/harvard/hms/dbmi/avillach/auth): This is where the core of the PSAMA application is stored in GitHub
 
-- [Token Introspection Process in PSAMA](https://docs.google.com/document/d/1Hug2z2P6XKBqkcVNervAdXxm66LOThuTt5_PUv9CjA0/edit#heading=h.q15h874f7kvq): This google document goes over the details of the token introspection process.
+- [Token Introspection Process in PSAMA](https://docs.google.com/document/d/1UPKw8L-TMt4r0eOKSK8j9v0hBGDMp5EtQKjqJhxXsrE/edit?usp=sharing): This google document goes over the details of the token introspection process.
 
 
 ## High Performance Data Store (HPDS)
@@ -50,13 +50,13 @@ Additional PSAMA Links:
 **HPDS is a datastore designed to work with the PIC-SURE meta-API. It grants researchers fast, dependable access to static datasets and the ability to produce statistics ready dataframes filtered on any variable they choose at any time.**  
 HPDS Repos:
 - [PIC-SURE HPDS](https://github.com/hms-dbmi/pic-sure-hpds): The main HPDS repository.
-- [PIC-SURE HPDS Python Client](https://github.com/hms-dbmi/pic-sure-python-adapter-hpds):Python client library to run queries against a PIC-SURE High Performance Data Store (HPDS) resource.
+- [PIC-SURE HPDS Python Client](https://github.com/hms-dbmi/pic-sure-python-adapter-hpds): Python client library to run queries against a PIC-SURE High Performance Data Store (HPDS) resource.
 - [PIC-SURE HPDS R Client](https://github.com/hms-dbmi/pic-sure-r-adapter-hpds): R client library to run queries against a PIC-SURE High Performance Data Store (HPDS) resource.
 - [PIC-SURE HPDS UI](https://github.com/hms-dbmi/pic-sure-hpds-ui): The main HPDS UI repository.
 - [HPDS Annotation](https://github.com/bch-gnome/hpds_annotation): This repository describes steps to prepare and annotate VCF files for loading into HPDS. </br>
 Additional HPDS Links:
-- [Loading HPDS Data for PL-Biobank](https://docs.google.com/document/d/1BDtesMWtXLYe7qtxl_s3K5nN2lJW21yVPhyabonTeRM/edit#): Details how to do an ETL of genotype and phenotype data into HPDS.
-- [pic-sure-hpds-nhanes](https://github.com/hms-dbmi/pic-sure-hpds-phenotype-load-example): An example HPDS environment load with a subset of the NHANES data.
+- [Loading HPDS Data for PL-Biobank](https://docs.google.com/document/d/1ssrzx__h4EmbHMlwZ9afQvwXxZ9KvNYPx51mqXcFIGw/edit?usp=sharing): Details how to do an ETL of genotype and phenotype data into HPDS.
+- [pic-sure-hpds-phenotype-load-example](https://github.com/hms-dbmi/pic-sure-hpds-phenotype-load-example): A HPDS phenotype-load-example.
 - [pic-sure-hpds-genotype-load-example](https://github.com/hms-dbmi/pic-sure-hpds-genotype-load-example): An HPDS genotype load example.
 - [Access-to-Data-using-PIC-SURE-API](https://github.com/hms-dbmi/Access-to-Data-using-PIC-SURE-API): Provides data access for users of PIC-SURE-All-In-One.
 
