@@ -50,6 +50,7 @@ Additional PSAMA Links:
 **HPDS is a datastore designed to work with the PIC-SURE meta-API. It grants researchers fast, dependable access to static datasets and the ability to produce statistics ready dataframes filtered on any variable they choose at any time.**  
 HPDS Repos:
 - [PIC-SURE HPDS](https://github.com/hms-dbmi/pic-sure-hpds): The main HPDS repository.
+- [PIC-SURE HPDS Overview](https://docs.google.com/presentation/d/1zVLqbhCUl9gwxVkx_aKie2nywqWLLdpC4j2AJ5Q3vKA/edit?usp=sharing): Overview of HPDS.
 - [PIC-SURE HPDS Python Client](https://github.com/hms-dbmi/pic-sure-python-adapter-hpds): Python client library to run queries against a PIC-SURE High Performance Data Store (HPDS) resource.
 - [PIC-SURE HPDS R Client](https://github.com/hms-dbmi/pic-sure-r-adapter-hpds): R client library to run queries against a PIC-SURE High Performance Data Store (HPDS) resource.
 - [PIC-SURE HPDS UI](https://github.com/hms-dbmi/pic-sure-hpds-ui): The main HPDS UI repository.
