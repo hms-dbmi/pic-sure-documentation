@@ -7,7 +7,6 @@ PIC-SURE Repos:
 - [Biodatacatalyst PIC-SURE](https://github.com/hms-dbmi/biodatacatalyst-pic-sure): This is the repository for the biodatacatalyst environment of PIC-SURE.
 - [PIC-SURE-ALL-IN-ONE](https://github.com/hms-dbmi/pic-sure-all-in-one): This is the repository for PIC-SURE-ALL-IN-ONE. 
 - [PIC-SURE YouTube Channel](https://www.youtube.com/channel/UCIfahDUjW4A4B1KyIek4YJA/featured): Short videos demonstrating PIC-SURE.  
-- 
 
 <br>
 Additional PIC-SURE Links: </br>
