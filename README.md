@@ -11,7 +11,7 @@ PIC-SURE Repos:
 <br>
 Additional PIC-SURE Links: </br>
 
-- [PIC-SURE v2 API Reference Document](https://docs.google.com/document/d/176CWrIoozihbng1A7Y9nSjhcen-ILFlO3rNRg73V_G8/edit?usp=sharing): This google document contains important reference information about the PIC-SURE v2 API.
+- [PIC-SURE v2 API Reference Document](https://app.gitbook.com/o/HwwUMljKAspjFDq5CK7G/s/meNaViOuPB9U832fUSEa/pic-sure-api): This Gitbook with Swagger document contains important reference information and exmaples about the PIC-SURE v2 API.
 
 - [PIC-SURE FENCE Integration Document](https://docs.google.com/document/d/1fZfx5sgZCfd-2KP3_W60xfCRJaQjgmvKbEQiu-zNHqc/edit?usp=sharing): This document contains information concerning the Fence authentication and authorization service.
 
